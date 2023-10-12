@@ -1,4 +1,5 @@
 Hello, I'm Otman
 Learning is a part of my life.
-So let's go...
+So let's start learning git
+You will have fun...
 
